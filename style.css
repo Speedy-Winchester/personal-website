@@ -1,0 +1,25 @@
+.underline{
+    height:6px;
+    background-color: black;
+    width: 70px;
+    margin:auto;
+}
+body{
+    background-color:palegreen;
+    text-align: center;
+}
+#Apps{
+    background-color: paleturquoise;
+    margin: 10px;
+
+}
+#games{
+    background-color: rgb(144, 182, 101);
+    margin: 10px;
+
+}
+#chatbots{
+    background-color:burlywood;
+    margin: 10px;
+
+}
